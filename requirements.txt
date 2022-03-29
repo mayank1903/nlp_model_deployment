@@ -40,7 +40,7 @@ charset-normalizer==2.0.4
 click==8.0.3
 cloudpickle==2.0.0
 colorama==0.4.4
-conda==4.10.3
+conda==4.3.16
 conda-build==3.21.5
 conda-content-trust==0+unknown
 conda-pack==0.6.0
