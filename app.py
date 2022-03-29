@@ -3,7 +3,7 @@
 
 # In[20]:
 
-
+from collections.abc import Mapping
 import pickle
 from flask import Flask, render_template, url_for,request
 import pandas as pd
