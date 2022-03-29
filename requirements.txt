@@ -30,7 +30,6 @@ bleach==4.0.0
 bokeh==2.4.1
 borb==2.0.15
 boto==2.49.0
-Bottleneck==1.3.2
 brotlipy==0.7.0
 cached-property==1.5.2
 cachetools==4.2.4
