@@ -41,7 +41,7 @@ click==8.0.3
 cloudpickle==2.0.0
 colorama==0.4.4
 conda==3.0.6
-conda-content-trust==0+unknown
+conda-content-trust==0.1.2
 conda-pack==0.6.0
 conda-package-handling==1.7.3
 conda-repo-cli==1.0.4
