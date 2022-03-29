@@ -1,7 +1,6 @@
 gunicorn==19.9.0
 Flask==1.1.1
 itsdangerous==1.1.0
-regex==2021.8.3
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 Werkzeug==0.15.5
@@ -11,4 +10,3 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
-collections.abc
