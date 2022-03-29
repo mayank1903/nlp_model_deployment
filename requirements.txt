@@ -1,7 +1,5 @@
 absl-py==0.15.0
 alabaster==0.7.12
-anaconda-navigator==2.1.1
-anaconda-project==0.10.1
 anyio==2.2.0
 appdirs==1.4.4
 applaunchservices==0.2.1
