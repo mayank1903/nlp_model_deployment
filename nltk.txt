@@ -1,1 +1,2 @@
 wordnet
+OMW 1.4
