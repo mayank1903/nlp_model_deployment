@@ -39,7 +39,6 @@ chardet==4.0.0
 charset-normalizer==2.0.4
 click==8.0.3
 cloudpickle==2.0.0
-clyent==1.2.2
 colorama==0.4.4
 conda==4.10.3
 conda-build==3.21.5
