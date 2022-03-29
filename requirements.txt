@@ -4,7 +4,6 @@ Send2Trash==1.8.0
 setuptools==51.1.2
 simplegeneric==0.8.1
 singledispatch==3.7.0
-sip==4.19.13
 six==1.15.0
 smart-open==5.2.1
 sniffio==1.2.0
