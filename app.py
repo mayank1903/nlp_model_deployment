@@ -9,17 +9,11 @@ from flask import Flask, render_template, url_for,request
 import pandas as pd
 import numpy as np
 import nltk
-from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer
 import re
 from sklearn.externals import joblib
-#from flask.render_templating import render_template
-
-
-# In[21]:
-
 from sklearn.naive_bayes import MultinomialNB
 
 
@@ -74,5 +68,5 @@ def predict():
 
 if __name__ == "__main__":
     #app.debug = True
-    app.run()
+    app.run(debug = True)
 
