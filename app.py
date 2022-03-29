@@ -5,31 +5,22 @@
 
 
 import pickle
-import joblib
 import flask
-from flask import Flask, render_template
-from logging import FileHandler,WARNING
+from flask import Flask, render_template, url_for,request
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import os
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import re
+from sklearn.externals import joblib
 #from flask.render_templating import render_template
 
 
 # In[21]:
 
-
-from flask import Flask,render_template,url_for,request
-import pandas as pd 
-import pickle
-from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 
