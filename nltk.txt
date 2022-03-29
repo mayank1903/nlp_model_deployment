@@ -1,2 +1,2 @@
 wordnet
-OMW 1.4
+Open Multilingual Wordnet
