@@ -11,3 +11,4 @@ matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
 html5lib==1.1
+joblib==1.1.0
