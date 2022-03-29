@@ -13,7 +13,8 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import CountVectorizer
 import re
-from sklearn.externals import joblib
+import joblib
+#from sklearn.externals import joblib
 from sklearn.naive_bayes import MultinomialNB
 
 
