@@ -1,3 +1,4 @@
+gunicorn==19.9.0
 absl-py==0.15.0
 alabaster==0.7.12
 anyio==2.2.0
@@ -251,6 +252,7 @@ spyder==5.1.5
 spyder-kernels==2.1.3
 SQLAlchemy==1.4.22
 sympy==1.9
+scipy>=0.15.1
 tblib==1.7.0
 tensorboard==2.7.0
 tensorboard-data-server==0.6.1
